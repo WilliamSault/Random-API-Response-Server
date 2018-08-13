@@ -1,0 +1,14 @@
+{
+  "name": "javascript-server",
+  "version": "1.0.0",
+  "description": "node js server to return http requests",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
